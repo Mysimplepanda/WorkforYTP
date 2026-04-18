@@ -3,3 +3,5 @@
 *.swiftmodule
 *.pcm
 *.pcm-*
+in.txt
+out.txt
